@@ -29,4 +29,12 @@ Ao longo das aulas, foram abordados temas como **interação com HTML**, **funç
 
 ## Aula 05 - Publicando o Projeto  
 - Implementação do **Responsive Voice** para síntese de voz.  
-- Publicação do projeto no **GitHub** e **Vercel**.  
+- Publicação do projeto no **GitHub** e **Vercel**.
+
+## 📜 Certificados  
+Este projeto faz parte da **Formação Completa de Java** da **Alura**. Aqui estão os certificados obtidos até o momento:  
+
+- Começando em Programação: carreira e primeiros passos (https://cursos.alura.com.br/user/anapaulald90/course/comecando-programacao-carreira-primeiros-passos/certificate)
+- Lógica de Programação: explore funções e listas (https://cursos.alura.com.br/user/anapaulald90/course/logica-programacao-funcoes-listas/certificate)
+- Lógica de programação: mergulhe em programação com JavaScript (https://cursos.alura.com.br/user/anapaulald90/course/logica-programacao-mergulhe-programacao-javascript/certificate)
+
