@@ -1,6 +1,6 @@
 # Lógica de Programação - Resumo das Aulas  
 
-## Introdução  
+## Objetivo do Projeto  
 Este projeto faz parte da **Formação Completa de Java** da **Alura** e corresponde às aulas iniciais do curso. O objetivo é introduzir conceitos fundamentais de **lógica de programação** e **JavaScript**, utilizando um jogo simples para aplicar o conhecimento na prática.  
 
 Ao longo das aulas, foram abordados temas como **interação com HTML**, **funções**, **estruturas condicionais**, **listas** e a **publicação do projeto** na web.  
